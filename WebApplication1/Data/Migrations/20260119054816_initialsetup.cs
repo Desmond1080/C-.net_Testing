@@ -25,6 +25,7 @@ namespace WebApplication1.Data.Migrations
                 });
         }
 
+        // changes made here
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
