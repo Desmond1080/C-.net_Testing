@@ -18,6 +18,8 @@ namespace WebApplication2.Controllers
             return View();
         }
 
+
+        // show privacy pages 
         public IActionResult Privacy()
         {
             return View();
